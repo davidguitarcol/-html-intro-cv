@@ -1,3 +1,30 @@
-div {
+h1, h2{ 
     text-align: center;
 }
+
+.box{
+    background-color: rgb(62, 50, 128);
+    padding: 10px;
+    color: white;
+}
+
+.img1{
+    text-align: center;
+}
+
+.box2{
+    background-color: rgb(255, 255, 244);
+}
+
+.conteiner{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 35% 65%;
+    grid-row-start: 100%;
+    font-size: 19px;
+}
+
+a{
+    color: white;
+}
+
